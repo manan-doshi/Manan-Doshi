@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY4MTRmYTdiZDYyNWU2NjAzMGNmNTA5MjZlMTUyZTVhYmRhOTBhNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manan-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="manan-doshi" /> </p>
+<img src="https://komarev.com/ghpvc/?username=manan-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="manan-doshi" />
 
 - 🔭 I’m currently working on **Online food delivery app**
 
