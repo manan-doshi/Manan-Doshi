@@ -21,7 +21,7 @@
 # 🛠 TechStack:
 
 
-### Web Architectures: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/css3.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/000000/javascript.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/bootstrap.png" width="45px" /></code> &nbsp; 
+### Web Architectures: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/css3.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/000000/javascript.png" width="45px" /></code> &nbsp; &nbsp; <code><img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/bootstrap.png" width="45px" /></code> &nbsp; 
 
 
 ### Languages: &nbsp; <code><img src="https://img.icons8.com/dusk/64/fa314a/java-coffee-cup-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/></code> &nbsp;  <code><img src="https://img.icons8.com/dusk/64/4a90e2/python.png" width="45px" /></code> &nbsp;
