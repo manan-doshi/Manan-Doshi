@@ -5,9 +5,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=manan-doshi&label=Profile%20views&color=0e75b6&style=flat" alt="manan-doshi" />
 
-- 🔭 I’m currently working on **Online food delivery app**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **web development**
 
