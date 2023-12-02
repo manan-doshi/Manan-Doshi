@@ -25,7 +25,7 @@
 
 ### Languages: &nbsp; <code><img src="https://img.icons8.com/dusk/64/fa314a/java-coffee-cup-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/></code> &nbsp; <code><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/></code> &nbsp;
 
-### Databases: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/oracle-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/mongodb.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ios/50/4a90e2/mysql-logo.png" width="45px" /></code> &nbsp; 
+### Databases: &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/oracle-logo.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/color/48/fa314a/mongodb.png" width="45px" /></code> &nbsp; <code><img src="https://img.icons8.com/ios/50/4a90e2/mysql-logo.png" width="45px" /></code> &nbsp; <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="45px" /></code> &nbsp;
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manan-doshi&show_icons=true&locale=en&layout=compact" alt="manan-doshi" /></p>
