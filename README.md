@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web,Android**
 
-- - 👨‍💻 All of my projects are available at [github.com/Manan-Doshi](github.com/Manan-Doshi)
+- 👨‍💻 All of my projects are available at [github.com/Manan-Doshi](github.com/Manan-Doshi)
 
 - 📫 How to reach me **mananpdoshi@gmail.com**
 
