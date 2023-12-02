@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Web development, Android development**
 
 - 📫 How to reach me **mananpdoshi@gmail.com**
 
