@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manan</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Manan</h1>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY4MTRmYTdiZDYyNWU2NjAzMGNmNTA5MjZlMTUyZTVhYmRhOTBhNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
